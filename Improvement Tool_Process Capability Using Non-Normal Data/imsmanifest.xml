@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6W4uZjDE4HO_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Improvement Tool: 
+Process Capability Using Non-Normal Data</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Improvement_Tool:_
+Process_Capability_Using_Non-Normal_Data_ORG">
+    <organization identifier="Improvement_Tool:_
+Process_Capability_Using_Non-Normal_Data_ORG">
+      <title>Improvement Tool: 
+Process Capability Using Non-Normal Data</title>
+      <item identifier="Improvement_Tool_
+Process_Capability_Using_Non-Normal_Data_SCO" isvisible="true" identifierref="__6W4uZjDE4HO_course_id_RES">
+        <title>Improvement Tool_Process Capability Using Non-Normal Data</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6W4uZjDE4HO_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_80_P_0_0_1817_1365_DX1620_DY1620_CX1131_CY849.png" />
+      <file href="story_content/6fvY01et0Qa_44100_64_1.mp3" />
+      <file href="story_content/6eztqOqCvEb_44100_64_1.mp3" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/6n5Zp2Y13jH_80_P_0_76_684_644_DX732_DY549_CX732_CY549.png" />
+      <file href="story_content/6WnvqEpzb2o_44100_64_1.mp3" />
+      <file href="mobile/5Wo5jp9hHrz_80_DX1190_DY1190_CX866_CY439.png" />
+      <file href="story_content/5ygjVpOnIG8_44100_64_1.mp3" />
+      <file href="mobile/6aZG0Kikn0S_80_DX846_DY846_CX542_CY259.png" />
+      <file href="story_content/5zNrBllQHXT_44100_64_1.mp3" />
+      <file href="mobile/6EQqkuwJ7lE_80_DX732_DY549_CX732_CY549.png" />
+      <file href="story_content/66FaX1CfsAu_44100_64_1.mp3" />
+      <file href="story_content/5pPkUrn00zZ_44100_64_1.mp3" />
+      <file href="mobile/60gpXqGvHPm_80_P_516_0_1014_1524_DX1452_DY1452_CX565_CY849.png" />
+      <file href="story_content/5eWBffwSOsi_44100_64_1.mp3" />
+      <file href="mobile/6aXYykfaUzv_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/5sXnrHE3LK1_44100_64_1.mp3" />
+      <file href="story_content/6fUZ4oUSjbN_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="story_content/video_6oVdvtrSiEv_19_64_720x380.mp4" />
+      <file href="mobile/poster_6c0VlZWV7ZV_video_6oVdvtrSiEv_19_64_720x380.jpg" />
+      <file href="story_content/video_6jXhWn6lLqN_19_64_720x380.mp4" />
+      <file href="mobile/poster_5odDh3L95lr_video_6jXhWn6lLqN_19_64_720x380.jpg" />
+      <file href="story_content/video_5lPIQHgB38q_19_64_720x380.mp4" />
+      <file href="mobile/poster_6FQDb6aB1Os_video_5lPIQHgB38q_19_64_720x380.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/6ozgYhleFez.png" />
+      <file href="story_content/5ojsRiu0HHv.png" />
+      <file href="story_content/5vJHn0CzuOC.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/MEASURE-NON NORMAL CAP.MTW" />
+      <file href="story_content/external_files/Sigma Calculation Tool.xls" />
+      <file href="story_content/external_files/SA42 Tool_Process Capability Using Non Normal Data.pdf" />
+      <file href="mobile/Shape5oj7PGvZjn6.png" />
+      <file href="mobile/Shape6nna2PMxJjt.png" />
+      <file href="mobile/Shape6VQID0eCFCS.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5kZNTWHtggy.js" />
+      <file href="html5/data/js/5mAcdIAGoyd.js" />
+      <file href="html5/data/js/5otadHp9OXP.js" />
+      <file href="html5/data/js/5sIx3oMEdoz.js" />
+      <file href="html5/data/js/60xhqzqTf8g.js" />
+      <file href="html5/data/js/66FGekUuy3g.js" />
+      <file href="html5/data/js/68N2c93gaG9.js" />
+      <file href="html5/data/js/694zVrTsfqO.js" />
+      <file href="html5/data/js/6b7Qox3voKM.js" />
+      <file href="html5/data/js/6jljqvm44eh.js" />
+      <file href="html5/data/js/6JnCwYwbkq5.js" />
+      <file href="html5/data/js/6nuh7UzldAK.js" />
+      <file href="html5/data/js/6p94zgZSDuS.js" />
+      <file href="html5/data/js/6PDxIJK8U7G.js" />
+      <file href="html5/data/js/6PLIdgHwLx9.js" />
+      <file href="html5/data/js/6TAx7JH3Fib.js" />
+      <file href="html5/data/js/6YidxCXXgbl.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
