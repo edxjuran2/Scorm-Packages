@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5W6s9KnaRhQ_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Lean Tool: Spaghetti Diagram</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Lean_Tool:_Spaghetti_Diagram_ORG">
+    <organization identifier="Lean_Tool:_Spaghetti_Diagram_ORG">
+      <title>Lean Tool: Spaghetti Diagram</title>
+      <item identifier="Lean_Tool_Spaghetti_Diagram_SCO" isvisible="true" identifierref="__5W6s9KnaRhQ_course_id_RES">
+        <title>Lean Tool_Spaghetti Diagram</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5W6s9KnaRhQ_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_80_DX1440_DY1440_CX1133_CY755.jpg" />
+      <file href="story_content/5f39eDrHcp4_44100_64_1.mp3" />
+      <file href="story_content/6EV2qkOVgO0_44100_64_1.mp3" />
+      <file href="mobile/6WlAFTBA8y2_80_P_0_500_2048_535_DX1440_DY1440_CX803_CY210.png" />
+      <file href="story_content/676TFoCVtA1_44100_64_1.mp3" />
+      <file href="story_content/6VqNEeCRMJ2_44100_64_1.mp3" />
+      <file href="story_content/6HFgywoujn4_44100_64_1.mp3" />
+      <file href="mobile/6PpoFq63hOQ_80_DX684_DY684_CX537_CY500.jpg" />
+      <file href="mobile/5sEksZmFsSq_80_DX658_DY658_CX517_CY515.jpg" />
+      <file href="mobile/5fT6hUgNbU6_80_P_512_0_1022_1536_DX1440_DY1440_CX565_CY849.png" />
+      <file href="story_content/6qgMhvKwnBx_44100_64_1.mp3" />
+      <file href="mobile/60gpXqGvHPm_80_P_516_0_1014_1524_DX1452_DY1452_CX565_CY849.png" />
+      <file href="story_content/5heJpXyoeRt_44100_64_1.mp3" />
+      <file href="mobile/6aXYykfaUzv_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/5VTAAZcG9Vd_44100_64_1.mp3" />
+      <file href="story_content/62V7J3JD3QM_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="story_content/5sBC4CBDuQt_44100_64_1.mp3" />
+      <file href="mobile/6o3b51G1ZhO_80_DX706_DY706_CX555_CY553.png" />
+      <file href="story_content/68V1VVKnBDj_44100_64_1.mp3" />
+      <file href="story_content/6pw4Fpa0sYR_44100_64_1.mp3" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/6AeW71yTQQX_80_DX732_DY494_CX732_CY494.jpg" />
+      <file href="story_content/6Mqs7neXjUF_44100_64_1.mp3" />
+      <file href="mobile/5fOGv8YaxxH_80_DX732_DY500_CX732_CY500.jpg" />
+      <file href="mobile/6DfduNLOF3Q_80_DX1338_DY1338_CX944_CY424.png" />
+      <file href="story_content/6eOWl1ZUlFA_44100_64_1.mp3" />
+      <file href="mobile/5ZnI97mvqkX_80_DX814_DY814_CX478_CY358.png" />
+      <file href="story_content/5wzNcMvYuWD_44100_64_1.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/5bBNbiIkZr2.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/SA32 Tool_Spaghetti Diagram.pdf" />
+      <file href="mobile/txt__default_6YJXhK4ODk4.png" />
+      <file href="mobile/txt__default_5gFRk30T2qU.png" />
+      <file href="mobile/Shape5cg22U7RJTd.png" />
+      <file href="mobile/Shape5xzdlSIaDhJ.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5e4jYyjv9rH.js" />
+      <file href="html5/data/js/5hm5gPl8vcZ.js" />
+      <file href="html5/data/js/5imV7GsGeyD.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5wWbhoLxgax.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/5zlTsGwvMvR.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/628zAOAHjPr.js" />
+      <file href="html5/data/js/69KVO3F0cMI.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6Dby36Va2Wq.js" />
+      <file href="html5/data/js/6fh1EAUQI7O.js" />
+      <file href="html5/data/js/6ivmlz2ZIJm.js" />
+      <file href="html5/data/js/6nm2twfBn90.js" />
+      <file href="html5/data/js/6oL2da6Nqua.js" />
+      <file href="html5/data/js/6qI9swCURFP.js" />
+      <file href="html5/data/js/6RjBVpPsnRt.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
