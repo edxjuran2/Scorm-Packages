@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5uMpqz9AcQT_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Improvement Tool: Measurement System Analysis Using Attribute Data</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Improvement_Tool:_Measurement_System_Analysis_Using_Attribute_Data_ORG">
+    <organization identifier="Improvement_Tool:_Measurement_System_Analysis_Using_Attribute_Data_ORG">
+      <title>Improvement Tool: Measurement System Analysis Using Attribute Data</title>
+      <item identifier="Improvement_Tool_Measurement_System_Analysis_Using_Attribute_Data_SCO" isvisible="true" identifierref="__5uMpqz9AcQT_course_id_RES">
+        <title>Improvement Tool_Measurement System Analysis Using Attribute Data</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5uMpqz9AcQT_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_80_P_0_0_1817_1365_DX1620_DY1620_CX1131_CY849.png" />
+      <file href="story_content/5vWZnWe7w3v_44100_64_1.mp3" />
+      <file href="story_content/6dbij7Y6A5q_44100_64_1.mp3" />
+      <file href="mobile/6A9hOjnEagZ_80_P_618_0_810_1218_DX1816_DY1816_CX565_CY849.png" />
+      <file href="story_content/5uLF21OclLk_44100_64_1.mp3" />
+      <file href="mobile/5eeMjIHx2HC_80_DX1164_DY1164_CX916_CY628.png" />
+      <file href="story_content/66TuaoieREZ_44100_64_1.mp3" />
+      <file href="story_content/6RgRMjgTmm5_44100_64_1.mp3" />
+      <file href="story_content/video_5iGUlCdt5U3_22_64_720x350.mp4" />
+      <file href="mobile/poster_5X3ux7kU7w7_video_5iGUlCdt5U3_22_64_720x350.jpg" />
+      <file href="mobile/60gpXqGvHPm_80_P_516_0_1014_1524_DX1452_DY1452_CX565_CY849.png" />
+      <file href="story_content/6iPEw6FOLwT_44100_64_1.mp3" />
+      <file href="mobile/6aXYykfaUzv_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/5vYcXjUfEHf_44100_64_1.mp3" />
+      <file href="story_content/5lQeoHn17ud_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="mobile/6UVU5pPeec2_80_P_0_409_1639_1229_DX1798_DY1798_CX1132_CY849.png" />
+      <file href="story_content/6Wn1lrQGU30_44100_64_1.mp3" />
+      <file href="mobile/6S8i9UMSWSR_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/60g7kZGi70A_44100_64_1.mp3" />
+      <file href="mobile/68VpwAqO0iz_80_P_86_0_1363_2048_DX1080_DY1080_CX565_CY849.png" />
+      <file href="story_content/6q2nCJAtXMs_44100_64_1.mp3" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/5WntcGtA61M_80_DX732_DY605_CX732_CY605.png" />
+      <file href="story_content/5sJkFymLwSQ_44100_64_1.mp3" />
+      <file href="mobile/64z6652Tkzi_80_DX732_DY487_CX732_CY487.png" />
+      <file href="story_content/5tN1Z6eU0zO_44100_64_1.mp3" />
+      <file href="mobile/6FwUcCkviGw_80_DX732_DY488_CX732_CY488.png" />
+      <file href="story_content/5uCWHeVWnqL_44100_64_1.mp3" />
+      <file href="mobile/6XbfcxQKnmo_80_DX1268_DY1268_CX997_CY591.png" />
+      <file href="story_content/6P1m2d4X7k8_44100_64_1.mp3" />
+      <file href="mobile/6lYDS2zyiOH_80_DX1204_DY1204_CX946_CY588.png" />
+      <file href="story_content/5rEs2yEenyI_44100_64_1.mp3" />
+      <file href="mobile/5YRGmWgkzXW_80_P_571_0_905_1360_DX1626_DY1626_CX565_CY849.png" />
+      <file href="story_content/6fHXNkrmqcg_44100_64_1.mp3" />
+      <file href="story_content/62ey69caZub_44100_64_1.mp3" />
+      <file href="story_content/6W7rAzYIGEu_44100_64_1.mp3" />
+      <file href="story_content/6ZsyL15JnfO_44100_64_1.mp3" />
+      <file href="story_content/5chCH778QLT_44100_64_1.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/6OGmr9QS70J.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/SA36B Tool_MSA Using Attribute Data.pdf" />
+      <file href="mobile/Shape5hJIpCXWgQp.png" />
+      <file href="mobile/Shape66zAqnFSauU.png" />
+      <file href="mobile/Shape68IEfOIsEpF.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aT3NS91IDl.js" />
+      <file href="html5/data/js/5g4KfB2u5zA.js" />
+      <file href="html5/data/js/5oiqRHAPwyA.js" />
+      <file href="html5/data/js/5qpVCU3wxGa.js" />
+      <file href="html5/data/js/5qS1ZY4bwFO.js" />
+      <file href="html5/data/js/5Vx8AKleGeG.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/5x7bQbC1ZNF.js" />
+      <file href="html5/data/js/5XvCFCzrBt2.js" />
+      <file href="html5/data/js/5xYylcig963.js" />
+      <file href="html5/data/js/5yoHOGeFVV7.js" />
+      <file href="html5/data/js/60fSjlahf8N.js" />
+      <file href="html5/data/js/6FSxijrGwL1.js" />
+      <file href="html5/data/js/6Fts1HizCdf.js" />
+      <file href="html5/data/js/6GiH8jkXvLM.js" />
+      <file href="html5/data/js/6gIom2eXpDK.js" />
+      <file href="html5/data/js/6GZ9XNNU9nx.js" />
+      <file href="html5/data/js/6ilNp9n7tXt.js" />
+      <file href="html5/data/js/6krqBtGXouj.js" />
+      <file href="html5/data/js/6M3kQWG8vJp.js" />
+      <file href="html5/data/js/6mGIQKYDe7j.js" />
+      <file href="html5/data/js/6nMBnu8VDRO.js" />
+      <file href="html5/data/js/6SQwJ8sqFLY.js" />
+      <file href="html5/data/js/6SXNMakKido.js" />
+      <file href="html5/data/js/6VmUtztj5nL.js" />
+      <file href="html5/data/js/6XLSPxq17xs.js" />
+      <file href="html5/data/js/6XPW62iBSbg.js" />
+      <file href="html5/data/js/6ZvUek8hS1Z.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
