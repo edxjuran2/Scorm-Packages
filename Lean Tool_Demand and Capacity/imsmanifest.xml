@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6R0x5QCikSD_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Lean Tool: Demand and Capacity</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Lean_Tool:_Demand_and_Capacity_ORG">
+    <organization identifier="Lean_Tool:_Demand_and_Capacity_ORG">
+      <title>Lean Tool: Demand and Capacity</title>
+      <item identifier="Lean_Tool_Demand_and_Capacity_SCO" isvisible="true" identifierref="__6R0x5QCikSD_course_id_RES">
+        <title>Lean Tool_Demand and Capacity</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6R0x5QCikSD_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_80_P_0_0_1811_1365_DX1626_DY1626_CX1131_CY852.png" />
+      <file href="story_content/5YZ4HiSfFKr_44100_64_1.mp3" />
+      <file href="story_content/5eHHcZxUu6M_44100_64_1.mp3" />
+      <file href="mobile/6WlAFTBA8y2_80_P_0_500_2048_535_DX1440_DY1440_CX803_CY210.png" />
+      <file href="story_content/5kozf7UEQhp_44100_64_1.mp3" />
+      <file href="mobile/6ARDBAyHYU5_80_P_571_0_905_1360_DX1626_DY1626_CX565_CY849.png" />
+      <file href="story_content/6i8YcEd2j6O_44100_64_1.mp3" />
+      <file href="mobile/6ASC7JURKGr_80_P_572_0_902_1356_DX1632_DY1632_CX565_CY849.png" />
+      <file href="story_content/5a1O48KTv1G_44100_64_1.mp3" />
+      <file href="mobile/6SthuOUl5Ql_80_P_512_0_1022_1536_DX1440_DY1440_CX565_CY849.png" />
+      <file href="story_content/5c7yn1Bczmp_44100_64_1.mp3" />
+      <file href="mobile/5zoRhlHzcza_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/6JkPlZqDwPZ_44100_64_1.mp3" />
+      <file href="mobile/663sYiMkg0c_80_P_567_0_912_1370_DX1614_DY1614_CX565_CY849.png" />
+      <file href="story_content/6I9UQj9RYr5_44100_64_1.mp3" />
+      <file href="mobile/6YXCuzq3AY1_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/6E3oh84bFxH_44100_64_1.mp3" />
+      <file href="mobile/5ikML3uGt9w_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/5a18f6BY03r_44100_64_1.mp3" />
+      <file href="mobile/5ZaK3Dv8ejU_80_P_512_0_1022_1536_DX1440_DY1440_CX565_CY849.png" />
+      <file href="story_content/6RyTJF4jqZP_44100_64_1.mp3" />
+      <file href="mobile/6aXYykfaUzv_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/6mHsAyo4Slf_44100_64_1.mp3" />
+      <file href="story_content/6cWD2s5bW1I_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="story_content/5b6A6F3wBJ9_44100_64_1.mp3" />
+      <file href="story_content/5eF5mPqNYc7_44100_64_1.mp3" />
+      <file href="story_content/6DJmjubWoWf_44100_64_1.mp3" />
+      <file href="story_content/5V1RNqAULJ9_44100_64_1.mp3" />
+      <file href="story_content/6hjCpfQshUe_44100_64_1.mp3" />
+      <file href="story_content/6YMk9WFT14w_44100_64_1.mp3" />
+      <file href="story_content/6NAfq2zchb4_44100_64_1.mp3" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/6fpIwELUvCO_80_DX656_DY465_CX656_CY465.png" />
+      <file href="story_content/6I5gJbBQsfB_44100_64_1.mp3" />
+      <file href="mobile/6DW95Sa5Iav_80_DX728_DY375_CX728_CY375.png" />
+      <file href="story_content/5z219IHovPg_44100_64_1.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/5rl989bVw5P.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/SA33 Tool_Demand and Capacity.pdf" />
+      <file href="mobile/txt__default_6LPuE9gIS00.png" />
+      <file href="mobile/txt__default_6afeRz1sy9h.png" />
+      <file href="mobile/Shape5VAv465Fsse.png" />
+      <file href="mobile/Shape5n3fxER4vql.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5ainfJYaKTC.js" />
+      <file href="html5/data/js/5aYn4jiQJ2Y.js" />
+      <file href="html5/data/js/5c4PbQfQ7aQ.js" />
+      <file href="html5/data/js/5f691VhLV9V.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5olmc03iOsP.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/5z7vpDwgdAQ.js" />
+      <file href="html5/data/js/5ZqPly0AKQP.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/61peTuKblzP.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6eJ6He5JWzO.js" />
+      <file href="html5/data/js/6esqbIAEf3A.js" />
+      <file href="html5/data/js/6funfqH90zx.js" />
+      <file href="html5/data/js/6GAdTFMFFdq.js" />
+      <file href="html5/data/js/6gUFZwReuRQ.js" />
+      <file href="html5/data/js/6JREfWmGz5B.js" />
+      <file href="html5/data/js/6kIBU3LO5EC.js" />
+      <file href="html5/data/js/6nV5uhP2CMn.js" />
+      <file href="html5/data/js/6QhKZKqkGPb.js" />
+      <file href="html5/data/js/6ROWMX9K90m.js" />
+      <file href="html5/data/js/6RXNWdQCxJ3.js" />
+      <file href="html5/data/js/6Tpu4HKSXrN.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/6YTA5ETme6L.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
