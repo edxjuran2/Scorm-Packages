@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_62H8vwXFokN_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Improvement Tool: Calculating Sigma Level and Process Yield</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Improvement_Tool:_Calculating_Sigma_Level_and_Process_Yield_ORG">
+    <organization identifier="Improvement_Tool:_Calculating_Sigma_Level_and_Process_Yield_ORG">
+      <title>Improvement Tool: Calculating Sigma Level and Process Yield</title>
+      <item identifier="Improvement_Tool_Calculating_Sigma_Level_and_Process_Yield_SCO" isvisible="true" identifierref="__62H8vwXFokN_course_id_RES">
+        <title>Improvement Tool_Calculating Sigma Level and Process Yield</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__62H8vwXFokN_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_80_P_0_0_1817_1365_DX1620_DY1620_CX1131_CY849.png" />
+      <file href="story_content/6iDkli9n5pb_44100_64_1.mp3" />
+      <file href="story_content/6pugDQb2nFb_44100_64_1.mp3" />
+      <file href="mobile/6WlAFTBA8y2_80_P_0_500_2048_535_DX1440_DY1440_CX803_CY210.png" />
+      <file href="story_content/6aEd9M0xcgG_44100_64_1.mp3" />
+      <file href="mobile/5xhBts5bSsI_80_DX1146_DY1146_CX901_CY528.jpg" />
+      <file href="story_content/6Y1dEUGYmQI_44100_64_1.mp3" />
+      <file href="mobile/6j3OzzaZEwS_80_P_622_0_802_1206_DX1834_DY1834_CX565_CY849.png" />
+      <file href="story_content/5zGkV5P3aXw_44100_64_1.mp3" />
+      <file href="story_content/6ONrHheSM6P_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="mobile/6STasGt2cxy_80_DX1928_DY1928_CX750_CY1174.jpg" />
+      <file href="story_content/6hVZV4dUeBv_44100_64_1.mp3" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/5e8O5HENc2z_80_DX732_DY258_CX732_CY258.jpg" />
+      <file href="story_content/65pZnjVqtIa_44100_64_1.mp3" />
+      <file href="mobile/6Ks1SXfSSmF_80_DX968_DY968_CX761_CY494.jpg" />
+      <file href="story_content/654ssjKmXG7_44100_64_1.mp3" />
+      <file href="mobile/6FNdo3G9CXD_80_DX1276_DY1276_CX1002_CY547.jpg" />
+      <file href="story_content/6rPRknMME6W_44100_64_1.mp3" />
+      <file href="story_content/6gP6BgnVhnb_44100_64_1.mp3" />
+      <file href="mobile/60gpXqGvHPm_80_P_516_0_1014_1524_DX1452_DY1452_CX565_CY849.png" />
+      <file href="story_content/5jk6fN8dtF3_44100_64_1.mp3" />
+      <file href="mobile/6aXYykfaUzv_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/60kXNL2G6o1_44100_64_1.mp3" />
+      <file href="mobile/5crNzMRAy0S_80_DX647_DY407_CX647_CY407.jpg" />
+      <file href="mobile/6Q6UDXvLKlB_80_DX732_DY497_CX732_CY497.jpg" />
+      <file href="mobile/6VV8Y0dceZi_80_DX732_DY489_CX732_CY489.jpg" />
+      <file href="mobile/5lg3pNUL4ry_80_DX732_DY525_CX732_CY525.jpg" />
+      <file href="mobile/69cYf2npEMz_80_DX720_DY720_CX564_CY243.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/6RObLBSKg05.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/SA44 Tool_Calculating Sigma Level and Process Yield.pdf" />
+      <file href="mobile/txt__default_6cuWwBHA77N.png" />
+      <file href="mobile/Shape5o2c9lBtbHp.png" />
+      <file href="mobile/Shape6ExjQFmM9Xb.png" />
+      <file href="mobile/Shape5akYOHkYXqB.png" />
+      <file href="mobile/Shape5d9sGXKrbTH.png" />
+      <file href="mobile/Shape609E4OaLWPf.png" />
+      <file href="mobile/txt__default_6SF3icRTe6y.png" />
+      <file href="mobile/Shape6N7Uh4l8Oz5.png" />
+      <file href="mobile/Shape5lXeDgVZBlW.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5anFEyJyDWs.js" />
+      <file href="html5/data/js/5aqITGqCpad.js" />
+      <file href="html5/data/js/5cg84mLZlHn.js" />
+      <file href="html5/data/js/5fVAsA8RdD3.js" />
+      <file href="html5/data/js/5hm5gPl8vcZ.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5lNlHUEBfnp.js" />
+      <file href="html5/data/js/5uGPC6OF44X.js" />
+      <file href="html5/data/js/5V0V8DcsIEg.js" />
+      <file href="html5/data/js/5wB8suS8oIP.js" />
+      <file href="html5/data/js/5WccNUhuQLC.js" />
+      <file href="html5/data/js/5WessZwY9Xr.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/5XjYmgEej0Z.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/62bLpYWHqln.js" />
+      <file href="html5/data/js/65pHLBZcQNU.js" />
+      <file href="html5/data/js/67Eojh2zqKD.js" />
+      <file href="html5/data/js/69cFuhE5dsV.js" />
+      <file href="html5/data/js/6AnniyrNLHR.js" />
+      <file href="html5/data/js/6B7aRbXOH1k.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6enQg45uN4a.js" />
+      <file href="html5/data/js/6IAnxy6s3P2.js" />
+      <file href="html5/data/js/6iXbVmWSigC.js" />
+      <file href="html5/data/js/6lEemmOtYMT.js" />
+      <file href="html5/data/js/6LnyQ586r3l.js" />
+      <file href="html5/data/js/6OhgaydVBGM.js" />
+      <file href="html5/data/js/6qKKuFkuhEJ.js" />
+      <file href="html5/data/js/6rhMXF3Ku16.js" />
+      <file href="html5/data/js/6Rm7W3CsOwp.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/6UjaZ3jQVBT.js" />
+      <file href="html5/data/js/6WMDuKgyPZw.js" />
+      <file href="html5/data/js/6X0JTYGFLIv.js" />
+      <file href="html5/data/js/6XFYa7S2AuL.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
