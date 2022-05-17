@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6ViexuPazTt_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Improvement Tool: Two Proportion Test in Minitab</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Improvement_Tool:_Two_Proportion_Test_in_Minitab_ORG">
+    <organization identifier="Improvement_Tool:_Two_Proportion_Test_in_Minitab_ORG">
+      <title>Improvement Tool: Two Proportion Test in Minitab</title>
+      <item identifier="Improvement_Tool_Two_Proportion_Test_in_Minitab_SCO" isvisible="true" identifierref="__6ViexuPazTt_course_id_RES">
+        <title>Improvement Tool_Two Proportion Test in Minitab</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6ViexuPazTt_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_80_P_0_0_1817_1365_DX1620_DY1620_CX1131_CY849.png" />
+      <file href="story_content/6J7Xv9g4Hqx_44100_64_1.mp3" />
+      <file href="story_content/5tnovyX6eYa_44100_64_1.mp3" />
+      <file href="mobile/6WlAFTBA8y2_80_P_0_500_2048_535_DX1440_DY1440_CX803_CY210.png" />
+      <file href="story_content/65JHmDUzEhs_44100_64_1.mp3" />
+      <file href="mobile/5oZ7M586cle_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/6pF5smkfvKh_44100_64_1.mp3" />
+      <file href="mobile/6YUvqYMWLhA_80_P_568_0_910_1367_DX1618_DY1618_CX565_CY849.png" />
+      <file href="story_content/65vguM4woEX_44100_64_1.mp3" />
+      <file href="mobile/6I4GVZ28Qvv_80_P_611_0_825_1240_DX1784_DY1784_CX565_CY849.png" />
+      <file href="story_content/6TdnRujOtvk_44100_64_1.mp3" />
+      <file href="mobile/657y8mZDVMv_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/69ViADVdWCf_44100_64_1.mp3" />
+      <file href="mobile/6PH889sS0OZ_80_P_572_0_902_1356_DX1632_DY1632_CX565_CY849.png" />
+      <file href="story_content/6bDE1RoqIN8_44100_64_1.mp3" />
+      <file href="mobile/6HVaLUQM1Nb_80_P_570_0_907_1363_DX1622_DY1622_CX565_CY849.png" />
+      <file href="story_content/6OTxQIL7h1D_44100_64_1.mp3" />
+      <file href="mobile/67wmiHfqkVM_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/5y2bOvDzAxh_80_DX732_DY549_CX732_CY549.png" />
+      <file href="story_content/5gM35c5oLgA_44100_64_1.mp3" />
+      <file href="mobile/5bDQJLtUMSD_80_P_572_0_902_1356_DX1632_DY1632_CX565_CY849.png" />
+      <file href="story_content/5VVAVKKdpHw_44100_64_1.mp3" />
+      <file href="mobile/6g27FG4eRpf_80_P_568_0_910_1367_DX1618_DY1618_CX565_CY849.png" />
+      <file href="story_content/62QVnC2aRLC_44100_64_1.mp3" />
+      <file href="mobile/6mMvCuLmieG_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/63gpOZYbdV7_44100_64_1.mp3" />
+      <file href="mobile/6VvTFoErL5W_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/5voNENhqyhv_44100_64_1.mp3" />
+      <file href="mobile/60gpXqGvHPm_80_P_516_0_1014_1524_DX1452_DY1452_CX565_CY849.png" />
+      <file href="story_content/6DBhdgqyDRM_44100_64_1.mp3" />
+      <file href="mobile/6aXYykfaUzv_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/6Ay6Ztd0tC4_44100_64_1.mp3" />
+      <file href="mobile/6nOI3N4aF48_80_DX732_DY558_CX732_CY558.png" />
+      <file href="story_content/6RkGi2gitJn_44100_64_1.mp3" />
+      <file href="story_content/5XHWot3OLJy_44100_64_1.mp3" />
+      <file href="story_content/6VJnGPwZ7Xe_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="story_content/video_6D6pU12CiTe_19_64_720x378.mp4" />
+      <file href="mobile/poster_5fTu7UvBceb_video_6D6pU12CiTe_19_64_720x378.jpg" />
+      <file href="mobile/6aIHSgqg135_80_DX732_DY544_CX732_CY544.jpg" />
+      <file href="story_content/5tKLY3lskZh_44100_64_1.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/6lPmqlA08cE.png" />
+      <file href="story_content/6XHUjN8QX06.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/Hypothesis Testing Roadmap.pdf" />
+      <file href="story_content/external_files/SA59 Tool_Two Proportion Test in Minitab.pdf" />
+      <file href="mobile/Shape6WZPZxL694m.png" />
+      <file href="mobile/Shape65wAoJp4LFk.png" />
+      <file href="mobile/Shape6nfLMQHSuya.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dlvb1KJUQd.js" />
+      <file href="html5/data/js/5i7POBVXm4N.js" />
+      <file href="html5/data/js/5jtGjUgvFGA.js" />
+      <file href="html5/data/js/5m8hZJeYFlM.js" />
+      <file href="html5/data/js/5mAcdIAGoyd.js" />
+      <file href="html5/data/js/5n4Yt3ijEHT.js" />
+      <file href="html5/data/js/5oSJGKwKwQj.js" />
+      <file href="html5/data/js/5xSrcspUGZO.js" />
+      <file href="html5/data/js/60mx2yiE1iM.js" />
+      <file href="html5/data/js/61YXBj23OOO.js" />
+      <file href="html5/data/js/68N2c93gaG9.js" />
+      <file href="html5/data/js/6Ads131Ntwa.js" />
+      <file href="html5/data/js/6cnMaCMG5ST.js" />
+      <file href="html5/data/js/6FB0OOwYh5D.js" />
+      <file href="html5/data/js/6k7WfXuff72.js" />
+      <file href="html5/data/js/6ltEH5fG2Hf.js" />
+      <file href="html5/data/js/6m1dB5x9Frp.js" />
+      <file href="html5/data/js/6mHeAhzTeYa.js" />
+      <file href="html5/data/js/6N57aYYxgW5.js" />
+      <file href="html5/data/js/6NZcGsinKP6.js" />
+      <file href="html5/data/js/6Ob8a4gIxbg.js" />
+      <file href="html5/data/js/6QCiyzxXdoI.js" />
+      <file href="html5/data/js/6SfTjgTOzei.js" />
+      <file href="html5/data/js/6VDXEokANCO.js" />
+      <file href="html5/data/js/6Wjq56g7gSG.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
