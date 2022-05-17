@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6oGKv8S9Ug9_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Improvement Tool: Cause-Effect Diagrams</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Improvement_Tool:_Cause-Effect_Diagrams_ORG">
+    <organization identifier="Improvement_Tool:_Cause-Effect_Diagrams_ORG">
+      <title>Improvement Tool: Cause-Effect Diagrams</title>
+      <item identifier="Improvement_Tool_Cause-Effect_Diagrams_SCO" isvisible="true" identifierref="__6oGKv8S9Ug9_course_id_RES">
+        <title>Improvemen_Tool:Cause-Effect Diagrams</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6oGKv8S9Ug9_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_P_0_0_1817_1365_DX1620_DY1620_CX1131_CY849.png" />
+      <file href="story_content/66HyD5AyaV0_44100_64_1.mp3" />
+      <file href="story_content/5nMpdeK4uqj_44100_64_1.mp3" />
+      <file href="mobile/6WlAFTBA8y2_P_0_500_2048_535_DX1440_DY1440_CX803_CY210.png" />
+      <file href="story_content/6K24rwmV4ya_44100_64_1.mp3" />
+      <file href="mobile/6V4w8tz7r9V_DX1284_DY1284_CX896_CY534.png" />
+      <file href="story_content/6e5crEykYNZ_44100_64_1.mp3" />
+      <file href="mobile/6FXblnxYqaz_DX480_DY480_CX377_CY251.jpg" />
+      <file href="mobile/5d4ZYSlXJCZ_DX480_DY480_CX377_CY251.jpg" />
+      <file href="mobile/5y2pwy6gI4I_DX480_DY480_CX340_CY251.jpg" />
+      <file href="story_content/5ryAFeeHWss_44100_64_1.mp3" />
+      <file href="mobile/5po7dDDPCB1_P_512_0_1022_1536_DX1440_DY1440_CX565_CY849.png" />
+      <file href="story_content/video_6C7QuFBx0cB_22_64_720x540.mp4" />
+      <file href="mobile/poster_5XMzvCLTQQE_video_6C7QuFBx0cB_22_64_720x540.jpg" />
+      <file href="story_content/5fo9w3zSJxF_44100_64_1.mp3" />
+      <file href="story_content/5kqd3RKf7mI_44100_64_1.mp3" />
+      <file href="story_content/6XK1gniZRNf_44100_64_1.mp3" />
+      <file href="mobile/60gpXqGvHPm_P_516_0_1014_1524_DX1452_DY1452_CX565_CY849.png" />
+      <file href="story_content/6CgI6xqVhmh_44100_64_1.mp3" />
+      <file href="mobile/5YFN529H5tJ_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/5vBZ52GLPtu_44100_64_1.mp3" />
+      <file href="mobile/6aXYykfaUzv_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/6gy0LhjDqR4_44100_64_1.mp3" />
+      <file href="mobile/6S6pgCFACMe_DX1268_DY1268_CX996_CY552.png" />
+      <file href="mobile/64e5Z0MABle_P_214_264_2779_1585_DX1566_DY1566_CX949_CY541.png" />
+      <file href="mobile/60FddQXvLC1_DX1126_DY1126_CX783_CY490.png" />
+      <file href="story_content/5Vqx1QBRptG_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="meta.xml" />
+      <file href="story_content/6Ufmth3CT4B.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/SA51 Tool_Cause Effect Diagrams.pdf" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5hm5gPl8vcZ.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5njwHSlpdgt.js" />
+      <file href="html5/data/js/5tQYVttD18k.js" />
+      <file href="html5/data/js/5wripo2s0vK.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/649rZDAPRct.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6dqw6HrffPr.js" />
+      <file href="html5/data/js/6EX5JSgPr07.js" />
+      <file href="html5/data/js/6FvrtBmtuQr.js" />
+      <file href="html5/data/js/6jATQE0f2A0.js" />
+      <file href="html5/data/js/6MTrEif2dKD.js" />
+      <file href="html5/data/js/6nrRoMc546X.js" />
+      <file href="html5/data/js/6Ny6UjMo3mJ.js" />
+      <file href="html5/data/js/6QUcOxldsPs.js" />
+      <file href="html5/data/js/6RjBVpPsnRt.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
