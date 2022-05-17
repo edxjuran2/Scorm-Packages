@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6c0jHpSJhme_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Application: Cause-Effect Diagram</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Application:_Cause-Effect_Diagram_ORG">
+    <organization identifier="Application:_Cause-Effect_Diagram_ORG">
+      <title>Application: Cause-Effect Diagram</title>
+      <item identifier="Application_Cause-Effect_Diagram_SCO" isvisible="true" identifierref="__6c0jHpSJhme_course_id_RES">
+        <title>Application_Cause-Effect Diagram</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6c0jHpSJhme_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/65NZ2Tuj4xW_80_P_227_0_1820_1365_DX1620_DY1620_CX1132_CY849.png" />
+      <file href="mobile/62hWztco8DI_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="mobile/5yuYaoolD1a_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="mobile/6gldrDM7lcK_80_P_611_0_824_1239_DX1786_DY1786_CX565_CY849.png" />
+      <file href="mobile/6qkowrpNyVL_80_P_518_0_1011_1520_DX1456_DY1456_CX565_CY849.png" />
+      <file href="mobile/5u4DbqS2bdp_80_P_572_0_902_1356_DX1632_DY1632_CX565_CY849.png" />
+      <file href="mobile/6Kl3sI5lyJh_80_P_0_428_1587_1190_DX1858_DY1858_CX1132_CY849.png" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="mobile/6GEBBUnytRx_80_P_159_140_1268_1262_DX2256_DY2256_CX1082_CY1077.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6KlTCnJyLha.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bCN9kmDiB5.js" />
+      <file href="html5/data/js/5dyMpEsdCyJ.js" />
+      <file href="html5/data/js/5gqgpOcw7sA.js" />
+      <file href="html5/data/js/5m72HDviUNx.js" />
+      <file href="html5/data/js/5mTcg4Jcm94.js" />
+      <file href="html5/data/js/5nqHeRVIrOL.js" />
+      <file href="html5/data/js/5q0o8DsZ6mm.js" />
+      <file href="html5/data/js/5V73oSQOEEs.js" />
+      <file href="html5/data/js/5YKbRq3eBbP.js" />
+      <file href="html5/data/js/66d9iPoGHn0.js" />
+      <file href="html5/data/js/6j9b3hhPUVr.js" />
+      <file href="html5/data/js/6jeHj2UY4ni.js" />
+      <file href="html5/data/js/6motIhPpquD.js" />
+      <file href="html5/data/js/6pwjuKHtv2h.js" />
+      <file href="html5/data/js/6QWJ8bpCYTP.js" />
+      <file href="html5/data/js/6SPbECbAlkz.js" />
+      <file href="html5/data/js/6Ycj44wyZte.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
