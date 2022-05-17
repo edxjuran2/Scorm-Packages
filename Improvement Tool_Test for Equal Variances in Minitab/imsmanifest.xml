@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5sVIVQjC6U1_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Improvement Tool: Test for Equal Variances in Minitab</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Improvement_Tool:_Test_for_Equal_Variances_in_Minitab_ORG">
+    <organization identifier="Improvement_Tool:_Test_for_Equal_Variances_in_Minitab_ORG">
+      <title>Improvement Tool: Test for Equal Variances in Minitab</title>
+      <item identifier="Improvement_Tool_Test_for_Equal_Variances_in_Minitab_SCO" isvisible="true" identifierref="__5sVIVQjC6U1_course_id_RES">
+        <title>Improvement Tool_Test for Equal Variances in Minitab</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5sVIVQjC6U1_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_80_P_0_0_1817_1365_DX1620_DY1620_CX1131_CY849.png" />
+      <file href="story_content/5yvQZPLgqTw_44100_64_1.mp3" />
+      <file href="story_content/5VFCYfCqZ8T_44100_64_1.mp3" />
+      <file href="mobile/6WlAFTBA8y2_80_P_0_500_2048_535_DX1440_DY1440_CX803_CY210.png" />
+      <file href="mobile/5XoX85xX9bg_80_DX842_DY842_CX661_CY314.png" />
+      <file href="story_content/6If73pUQEXV_44100_64_1.mp3" />
+      <file href="mobile/6AHa8WMuK6L_80_P_212_0_2341_1531_DX480_DY480_CX346_CY226.png" />
+      <file href="mobile/62bnrUkAViz_80_DX442_DY442_CX347_CY217.png" />
+      <file href="story_content/5xGUZB732rP_44100_64_1.mp3" />
+      <file href="mobile/6j7xom9PlaN_80_P_571_0_905_1360_DX1626_DY1626_CX565_CY849.png" />
+      <file href="story_content/5knKBY3yxkS_44100_64_1.mp3" />
+      <file href="mobile/6fsAQibKYqw_80_P_512_0_1022_1536_DX1440_DY1440_CX565_CY849.png" />
+      <file href="story_content/5zbYguAAv1c_44100_64_1.mp3" />
+      <file href="mobile/6J9WpKjdOfo_80_P_568_0_910_1367_DX1618_DY1618_CX565_CY849.png" />
+      <file href="story_content/6hdb1GKAnyk_44100_64_1.mp3" />
+      <file href="mobile/6Q129erTAia_80_P_572_0_902_1356_DX1632_DY1632_CX565_CY849.png" />
+      <file href="story_content/6DsduA4G2HE_44100_64_1.mp3" />
+      <file href="mobile/6POaq5WYvfo_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/6RNvcWpMrme_44100_64_1.mp3" />
+      <file href="mobile/60gpXqGvHPm_80_P_516_0_1014_1524_DX1452_DY1452_CX565_CY849.png" />
+      <file href="story_content/6gcIwKAslYd_44100_64_1.mp3" />
+      <file href="mobile/6aXYykfaUzv_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/5trvmClJAj2_44100_64_1.mp3" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/6nOI3N4aF48_80_DX732_DY558_CX732_CY558.png" />
+      <file href="story_content/6aaWb4LdKuX_44100_64_1.mp3" />
+      <file href="story_content/5XHWot3OLJy_44100_64_1.mp3" />
+      <file href="mobile/6k2jSa2oHD8_80_DX988_DY988_CX776_CY393.png" />
+      <file href="story_content/5dQP30ZTBFz_44100_64_1.mp3" />
+      <file href="story_content/5XUzZ8BtY2Y_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="story_content/video_5yWwasgTLwA_19_64_720x378.mp4" />
+      <file href="mobile/poster_6VuKQQAmyr9_video_5yWwasgTLwA_19_64_720x378.jpg" />
+      <file href="story_content/video_6lxUgUE6MF7_19_64_720x378.mp4" />
+      <file href="mobile/poster_6AL5uwj5pXW_video_6lxUgUE6MF7_19_64_720x378.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/6buCrHTd6Ak.png" />
+      <file href="story_content/5X8bH0ZB6qX.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/Hypothesis Testing Roadmap.pdf" />
+      <file href="story_content/external_files/SA63 Tool_Test for Equal Variance in Minitab.pdf" />
+      <file href="mobile/txt__default_65QyUbKHPUh.png" />
+      <file href="mobile/Shape65wAoJp4LFk.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5cSID8OepS9.js" />
+      <file href="html5/data/js/5ctbYEUJWRR.js" />
+      <file href="html5/data/js/5i7POBVXm4N.js" />
+      <file href="html5/data/js/5m63CQXbGy6.js" />
+      <file href="html5/data/js/5m8hZJeYFlM.js" />
+      <file href="html5/data/js/5mAcdIAGoyd.js" />
+      <file href="html5/data/js/5xSrcspUGZO.js" />
+      <file href="html5/data/js/6Ads131Ntwa.js" />
+      <file href="html5/data/js/6B5JNrtCwtQ.js" />
+      <file href="html5/data/js/6cfSSeJIGsw.js" />
+      <file href="html5/data/js/6Eb3vbeZH2E.js" />
+      <file href="html5/data/js/6EZ9HTs2v37.js" />
+      <file href="html5/data/js/6Im5WoF0vKW.js" />
+      <file href="html5/data/js/6lChZugc7Oo.js" />
+      <file href="html5/data/js/6m1dB5x9Frp.js" />
+      <file href="html5/data/js/6mHeAhzTeYa.js" />
+      <file href="html5/data/js/6oaMg7EMleA.js" />
+      <file href="html5/data/js/6OHDTkrtPtU.js" />
+      <file href="html5/data/js/6SfTjgTOzei.js" />
+      <file href="html5/data/js/6VDXEokANCO.js" />
+      <file href="html5/data/js/6W4F7EqAmzR.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
