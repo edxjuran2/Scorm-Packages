@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5mnkMKPEKzo_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Improvement Tool: Normality Tests</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Improvement_Tool:_Normality_Tests_ORG">
+    <organization identifier="Improvement_Tool:_Normality_Tests_ORG">
+      <title>Improvement Tool: Normality Tests</title>
+      <item identifier="Improvement_Tool_Normality_Tests_SCO" isvisible="true" identifierref="__5mnkMKPEKzo_course_id_RES">
+        <title>Improvement Tool_Normality Tests</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5mnkMKPEKzo_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_80_P_0_0_1817_1365_DX1620_DY1620_CX1131_CY849.png" />
+      <file href="story_content/6170YWsPlvJ_44100_64_1.mp3" />
+      <file href="story_content/5Vt3IhprN1D_44100_64_1.mp3" />
+      <file href="mobile/6WlAFTBA8y2_80_P_0_500_2048_535_DX1440_DY1440_CX803_CY210.png" />
+      <file href="story_content/6Yw8qRyGphI_44100_64_1.mp3" />
+      <file href="mobile/5zvBEkK2Ouu_80_P_538_0_971_1459_DX1516_DY1516_CX565_CY849.png" />
+      <file href="story_content/6IxeqyLcAz4_44100_64_1.mp3" />
+      <file href="mobile/6J9WpKjdOfo_80_P_568_0_910_1367_DX1618_DY1618_CX565_CY849.png" />
+      <file href="story_content/6Mrssw855QE_44100_64_1.mp3" />
+      <file href="mobile/6Q129erTAia_80_P_572_0_902_1356_DX1632_DY1632_CX565_CY849.png" />
+      <file href="story_content/6NzNVsyNXwM_44100_64_1.mp3" />
+      <file href="mobile/6Jvxoy5IFh1_80_DX728_DY728_CX572_CY538.jpg" />
+      <file href="story_content/6pBaa6pEu6y_44100_64_1.mp3" />
+      <file href="mobile/60gpXqGvHPm_80_P_516_0_1014_1524_DX1452_DY1452_CX565_CY849.png" />
+      <file href="story_content/6ibOxp6TCdl_44100_64_1.mp3" />
+      <file href="mobile/6aXYykfaUzv_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/6AbRRW6mnRa_44100_64_1.mp3" />
+      <file href="mobile/6UkD5Jsjxoj_80_P_112_0_1822_1367_DX1618_DY1618_CX1132_CY849.png" />
+      <file href="story_content/62g0xjcvl2z_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="story_content/5ddUjxhrPOi_44100_64_1.mp3" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/5Zqdb7xREQT_80_DX577_DY385_CX577_CY385.png" />
+      <file href="story_content/5mVnn1TM1bo_44100_64_1.mp3" />
+      <file href="story_content/6P5RNVihR3p_44100_64_1.mp3" />
+      <file href="mobile/5qIytJafGUw_80_DX577_DY385_CX577_CY385.png" />
+      <file href="story_content/5cOTKuSLODh_44100_64_1.mp3" />
+      <file href="story_content/5en5EmHB0M6_44100_64_1.mp3" />
+      <file href="mobile/5nSxrI598Bn_80_DX732_DY549_CX732_CY549.png" />
+      <file href="story_content/6b8yKq7vvk6_44100_64_1.mp3" />
+      <file href="story_content/video_5YOKHsacMu2_21_64_718x384.mp4" />
+      <file href="mobile/poster_5ZmaPt4QL8g_video_5YOKHsacMu2_21_64_718x384.jpg" />
+      <file href="story_content/video_6UqGuzZELcX_21_64_720x386.mp4" />
+      <file href="mobile/poster_67rM2zTo4yT_video_6UqGuzZELcX_21_64_720x386.jpg" />
+      <file href="story_content/video_5XmqubjGX4L_21_64_720x386.mp4" />
+      <file href="mobile/poster_6WySNeYC5Wk_video_5XmqubjGX4L_21_64_720x386.jpg" />
+      <file href="story_content/5Y2joFyvldX_44100_64_1.mp3" />
+      <file href="mobile/6KlQAU3AOrW_80_DX1408_DY1408_CX1107_CY835.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/5o8YmukZyZl.png" />
+      <file href="story_content/5nCatk2rsGa.png" />
+      <file href="story_content/5aUQRx8cAIu.png" />
+      <file href="story_content/6h5r9khmIkR.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/Normality Tests.MTW" />
+      <file href="story_content/external_files/Hypothesis Testing Roadmap.pdf" />
+      <file href="story_content/external_files/ANALYZE-NORMALITY TESTS.MTW" />
+      <file href="story_content/external_files/SA61 Tool_Normality Tests.pdf" />
+      <file href="mobile/Shape5anXFE9rkSW.png" />
+      <file href="mobile/Shape5cVWuXtyzTO.png" />
+      <file href="mobile/Shape5tK6JloOFbQ.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aOdwhVmRoD.js" />
+      <file href="html5/data/js/5b2e9wpyU7d.js" />
+      <file href="html5/data/js/5cUsoRqhh7i.js" />
+      <file href="html5/data/js/5fZoibLMauY.js" />
+      <file href="html5/data/js/5hm5gPl8vcZ.js" />
+      <file href="html5/data/js/5jQZYIPEwcl.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5mnxryJkuGc.js" />
+      <file href="html5/data/js/5nDhzsHCofo.js" />
+      <file href="html5/data/js/5pm9uVGatEP.js" />
+      <file href="html5/data/js/5tscSQEmay0.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/5yj7zPJfFYj.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/64ZP6gAW3tZ.js" />
+      <file href="html5/data/js/652OXl4Y7Mj.js" />
+      <file href="html5/data/js/65lmi05hDt6.js" />
+      <file href="html5/data/js/6AS7tdjv9GI.js" />
+      <file href="html5/data/js/6it12mJ7V3P.js" />
+      <file href="html5/data/js/6KXSnh0PGjU.js" />
+      <file href="html5/data/js/6lKzQqiZFJi.js" />
+      <file href="html5/data/js/6ntbC1tCd03.js" />
+      <file href="html5/data/js/6NwHd4Jdo1Q.js" />
+      <file href="html5/data/js/6P8yb7uzeMB.js" />
+      <file href="html5/data/js/6po6zK0uPqK.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/6WMQwT2lcGP.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
