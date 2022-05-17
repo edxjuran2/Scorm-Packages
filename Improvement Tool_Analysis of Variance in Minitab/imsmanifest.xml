@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_660qrZN4B5E_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Improvement Tool: Analysis of Variance in Minitab</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Improvement_Tool:_Analysis_of_Variance_in_Minitab_ORG">
+    <organization identifier="Improvement_Tool:_Analysis_of_Variance_in_Minitab_ORG">
+      <title>Improvement Tool: Analysis of Variance in Minitab</title>
+      <item identifier="Improvement_Tool_Analysis_of_Variance_in_Minitab_SCO" isvisible="true" identifierref="__660qrZN4B5E_course_id_RES">
+        <title>Improvement Tool_Analysis of Variance in Minitab</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__660qrZN4B5E_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_80_P_0_0_1817_1365_DX1620_DY1620_CX1131_CY849.png" />
+      <file href="story_content/6nTYrJDIXaW_44100_64_1.mp3" />
+      <file href="story_content/62HzHfUr5MT_44100_64_1.mp3" />
+      <file href="mobile/6BfVZYz4hxz_80_P_0_414_2048_535_DX1440_DY1440_CX803_CY210.png" />
+      <file href="story_content/5ZIWaaC7KpR_44100_64_1.mp3" />
+      <file href="mobile/6Lo2hhbbWdu_80_P_568_0_910_1367_DX1618_DY1618_CX565_CY849.png" />
+      <file href="story_content/631vh4Pg8Bb_44100_64_1.mp3" />
+      <file href="mobile/5f16kndmCva_80_P_569_0_909_1366_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/5WswQoIvFon_44100_64_1.mp3" />
+      <file href="mobile/6RjYZgCcDq1_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/6fyiMpTMU1D_44100_64_1.mp3" />
+      <file href="mobile/63P1qRkcFUC_80_P_568_0_910_1367_DX1618_DY1618_CX565_CY849.png" />
+      <file href="story_content/5YS7Bwmawya_44100_64_1.mp3" />
+      <file href="mobile/5V29zEgfBJO_80_P_568_0_910_1367_DX1618_DY1618_CX565_CY849.png" />
+      <file href="story_content/5de5bhCMZrR_44100_64_1.mp3" />
+      <file href="mobile/6LOhszNXSy7_80_P_568_0_910_1367_DX1618_DY1618_CX565_CY849.png" />
+      <file href="story_content/5wfNkrw27yO_44100_64_1.mp3" />
+      <file href="mobile/68uKYBiwvc9_80_P_568_0_910_1367_DX1618_DY1618_CX565_CY849.png" />
+      <file href="story_content/6MZeFmNoDz0_44100_64_1.mp3" />
+      <file href="mobile/5xP9HVwAfQo_80_P_572_0_902_1356_DX1632_DY1632_CX565_CY849.png" />
+      <file href="story_content/6YV2MNWD9Yc_44100_64_1.mp3" />
+      <file href="mobile/6kFdPiRCQIn_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/64DE42trp44_44100_64_1.mp3" />
+      <file href="mobile/6HBoqInZhM6_80_P_607_0_833_1252_DX1766_DY1766_CX565_CY849.png" />
+      <file href="story_content/6qgz42IApzE_44100_64_1.mp3" />
+      <file href="story_content/6Wm6fqxlA0J_44100_64_1.mp3" />
+      <file href="mobile/5vRYik1B94r_80_P_538_0_971_1459_DX1516_DY1516_CX565_CY849.png" />
+      <file href="story_content/5gWHQcW9rDO_44100_64_1.mp3" />
+      <file href="mobile/6fqemJlJx8Z_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/5x2BFZqmtrY_44100_64_1.mp3" />
+      <file href="mobile/60gpXqGvHPm_80_P_516_0_1014_1524_DX1452_DY1452_CX565_CY849.png" />
+      <file href="story_content/6ZijprrVIMz_44100_64_1.mp3" />
+      <file href="mobile/6aXYykfaUzv_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/6kUvf9ZM3JQ_44100_64_1.mp3" />
+      <file href="mobile/5qKR11AsJYq_80_P_114_0_1819_1365_DX1620_DY1620_CX1132_CY849.png" />
+      <file href="story_content/6r9UbJPXWNH_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="story_content/62jmrj85XJV_44100_64_1.mp3" />
+      <file href="mobile/6eduf0dlzbo_80_DX1208_DY1208_CX949_CY333.png" />
+      <file href="story_content/6DzqYFAT88o_44100_64_1.mp3" />
+      <file href="story_content/5Ut6b8oWYBM_44100_64_1.mp3" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/6S8fNQGbKCE_80_DX577_DY385_CX577_CY385.png" />
+      <file href="story_content/6bsRs6Wevdw_44100_64_1.mp3" />
+      <file href="story_content/5mDGtpE9d4e_44100_64_1.mp3" />
+      <file href="story_content/6Z3BhwM99bu_44100_64_1.mp3" />
+      <file href="mobile/6KmSJQYNiIc_80_DX982_DY982_CX577_CY385.png" />
+      <file href="story_content/6RJfYi4gpIb_44100_64_1.mp3" />
+      <file href="story_content/6BA2xSabAuX_44100_64_1.mp3" />
+      <file href="mobile/6eDvgaJArmo_80_DX1088_DY1088_CX777_CY772.jpg" />
+      <file href="story_content/6bhH1fPiRYx_44100_64_1.mp3" />
+      <file href="mobile/6E5LDUvMavL_80_DX577_DY385_CX577_CY385.png" />
+      <file href="story_content/5ygCDAKze0b_44100_64_1.mp3" />
+      <file href="story_content/5qwvlZHEaXA_44100_64_1.mp3" />
+      <file href="mobile/5cmf7Dpe3DK_80_DX982_DY982_CX577_CY385.png" />
+      <file href="story_content/6DqGDZhXc9R_44100_64_1.mp3" />
+      <file href="mobile/6FzTVu6B21i_80_DX577_DY385_CX577_CY385.png" />
+      <file href="mobile/6nOI3N4aF48_80_DX732_DY558_CX732_CY558.png" />
+      <file href="story_content/5lT7Zxmf876_44100_64_1.mp3" />
+      <file href="story_content/video_6Any4UIgcLu_22_64_720x378.mp4" />
+      <file href="mobile/poster_6lMtm6ddDgX_video_6Any4UIgcLu_22_64_720x378.jpg" />
+      <file href="story_content/video_6Mjo2swX9iV_22_64_720x378.mp4" />
+      <file href="mobile/poster_5V7gtqJi26l_video_6Mjo2swX9iV_22_64_720x378.jpg" />
+      <file href="story_content/video_5v01ghJico5_22_64_720x378.mp4" />
+      <file href="mobile/poster_6aViDRo5iQD_video_5v01ghJico5_22_64_720x378.jpg" />
+      <file href="story_content/video_6beSEgu11di_22_64_720x378.mp4" />
+      <file href="mobile/poster_5tYB1tqD5Yn_video_6beSEgu11di_22_64_720x378.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/61GU1gTUxhN.png" />
+      <file href="story_content/6dxFCoL1Tiy.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/Hypothesis Testing Roadmap.pdf" />
+      <file href="story_content/external_files/SA69 Tool_Analysis of Variance in Minitab.pdf" />
+      <file href="mobile/txt__default_5jMm4JerNqa.png" />
+      <file href="mobile/txt__default_6Q07CmUU6oK.png" />
+      <file href="mobile/Shape6BlMhufAOC8.png" />
+      <file href="mobile/Shape6Kejzvzrx38.png" />
+      <file href="mobile/Shape6AwwRZmN5Uu.png" />
+      <file href="mobile/Shape65evc2juFzl.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5cUsoRqhh7i.js" />
+      <file href="html5/data/js/5d0ahSmUB8L.js" />
+      <file href="html5/data/js/5fZoibLMauY.js" />
+      <file href="html5/data/js/5hm5gPl8vcZ.js" />
+      <file href="html5/data/js/5iexCeSMLQj.js" />
+      <file href="html5/data/js/5iJu8ow5Ruh.js" />
+      <file href="html5/data/js/5iZospWR2sJ.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5kmQO0tFk1K.js" />
+      <file href="html5/data/js/5kmv3iIXaz5.js" />
+      <file href="html5/data/js/5lA34AY7fCH.js" />
+      <file href="html5/data/js/5mnxryJkuGc.js" />
+      <file href="html5/data/js/5sZSJFetOvu.js" />
+      <file href="html5/data/js/5t1KuYYMviD.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/5YTby4x6KOL.js" />
+      <file href="html5/data/js/5Z2j6s52kMF.js" />
+      <file href="html5/data/js/60q6jllGqq0.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/61p5N7WBsa9.js" />
+      <file href="html5/data/js/62h5i3XB8Qd.js" />
+      <file href="html5/data/js/651QfEuMe8j.js" />
+      <file href="html5/data/js/65DRy4rt9Fd.js" />
+      <file href="html5/data/js/65yDbgz1AS0.js" />
+      <file href="html5/data/js/68N9Sv5CRiG.js" />
+      <file href="html5/data/js/68yQ5tBUskr.js" />
+      <file href="html5/data/js/69HedtozOm9.js" />
+      <file href="html5/data/js/6BRnvHKH6QP.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6cfhwKpj0I3.js" />
+      <file href="html5/data/js/6EAJRHNh4sK.js" />
+      <file href="html5/data/js/6J8SOmeRo0b.js" />
+      <file href="html5/data/js/6lYFb67PWkP.js" />
+      <file href="html5/data/js/6lywBHu9Pq5.js" />
+      <file href="html5/data/js/6Mad2Y9H3ef.js" />
+      <file href="html5/data/js/6Nnhn7xSr4k.js" />
+      <file href="html5/data/js/6q1752ALggI.js" />
+      <file href="html5/data/js/6SagMMjcB6G.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/6UKALJ9kcHa.js" />
+      <file href="html5/data/js/6UNCi8Ce0kW.js" />
+      <file href="html5/data/js/6V1FdPrYJMS.js" />
+      <file href="html5/data/js/6XGQrqy82Ym.js" />
+      <file href="html5/data/js/6XpCahNweH9.js" />
+      <file href="html5/data/js/6Yg558kUKav.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
