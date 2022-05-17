@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_66rcCJlqELk_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Improvement Tool: Histograms</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Improvement_Tool:_Histograms_ORG">
+    <organization identifier="Improvement_Tool:_Histograms_ORG">
+      <title>Improvement Tool: Histograms</title>
+      <item identifier="Improvement_Tool_Histograms_SCO" isvisible="true" identifierref="__66rcCJlqELk_course_id_RES">
+        <title>Improvement Tool_Histograms</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__66rcCJlqELk_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_80_P_0_0_1817_1365_DX1620_DY1620_CX1131_CY849.png" />
+      <file href="story_content/6KSdk9GftC6_44100_64_1.mp3" />
+      <file href="story_content/6FJFWiISqAI_44100_64_1.mp3" />
+      <file href="mobile/6WlAFTBA8y2_80_P_0_500_2048_535_DX1440_DY1440_CX803_CY210.png" />
+      <file href="story_content/63rA5kXeV6F_44100_64_1.mp3" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/5w4FjCOb3xH_80_DX340_DY390_CX340_CY390.jpg" />
+      <file href="story_content/6H1TTZFr99y_44100_64_1.mp3" />
+      <file href="mobile/5vCV0LU1WmS_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/5Ww40Eqfzfm_44100_64_1.mp3" />
+      <file href="story_content/5nfAdBJexDv_44100_64_1.mp3" />
+      <file href="mobile/63x3MLTrwmp_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/6LM7hvUqzCu_44100_64_1.mp3" />
+      <file href="mobile/5fqICcIgaHh_80_DX988_DY988_CX494_CY260.png" />
+      <file href="story_content/5yysxzDLb47_44100_64_1.mp3" />
+      <file href="mobile/60gpXqGvHPm_80_P_516_0_1014_1524_DX1452_DY1452_CX565_CY849.png" />
+      <file href="story_content/6MLYqLc3h66_44100_64_1.mp3" />
+      <file href="mobile/6aXYykfaUzv_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/6jVcOM6aqv7_44100_64_1.mp3" />
+      <file href="story_content/6SQ7Qgvsel1_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="mobile/5bL9xSuAUlc_80_DX486_DY486_CX243_CY140.png" />
+      <file href="mobile/6UKBdIrz0px_80_DX486_DY486_CX243_CY138.png" />
+      <file href="mobile/6CalBm9GRzA_80_DX486_DY486_CX243_CY62.png" />
+      <file href="mobile/6hJ6pXxVitL_80_DX486_DY486_CX243_CY111.png" />
+      <file href="mobile/5b31z2NayIL_80_DX486_DY486_CX243_CY142.png" />
+      <file href="mobile/5lMqfjKPXLv_80_DX486_DY486_CX243_CY106.png" />
+      <file href="mobile/5VMPMetTdWk_80_DX486_DY486_CX243_CY128.png" />
+      <file href="mobile/6pqX9bhouxo_80_DX486_DY486_CX243_CY50.png" />
+      <file href="mobile/6VVOsCwdEPw_80_DX1080_DY1080_CX849_CY566.jpg" />
+      <file href="story_content/6Hf8yzG34ph_44100_64_1.mp3" />
+      <file href="mobile/6Ya3csblo1q_80_DX1156_DY1156_CX578_CY385.jpg" />
+      <file href="story_content/5qWypeoSmgW_44100_64_1.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/68iYD2ULdrT.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/SA48 Tool_Histograms.pdf" />
+      <file href="mobile/txt__default_6c0xJfz5ZRl.png" />
+      <file href="mobile/txt__default_6U2wosxV60G.png" />
+      <file href="mobile/Shape5xTUqL3ilO3.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5a5sjObqWTd.js" />
+      <file href="html5/data/js/5c8DqrKWdN0.js" />
+      <file href="html5/data/js/5eXPY6pfDGQ.js" />
+      <file href="html5/data/js/5fvAc6md5rn.js" />
+      <file href="html5/data/js/5hm5gPl8vcZ.js" />
+      <file href="html5/data/js/5igRIWun4wW.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5kQlfS4StWc.js" />
+      <file href="html5/data/js/5urR6siY9XF.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/5x4Ch3HdHP3.js" />
+      <file href="html5/data/js/5XSZ5zE4qRf.js" />
+      <file href="html5/data/js/5ze6FLdorU1.js" />
+      <file href="html5/data/js/5zpUJEXBi53.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/62Ij7B3Vp6T.js" />
+      <file href="html5/data/js/67fjHGk6mdS.js" />
+      <file href="html5/data/js/68LmjCjG14w.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6cVjUfJORht.js" />
+      <file href="html5/data/js/6CZVhOoGCp5.js" />
+      <file href="html5/data/js/6fh1EAUQI7O.js" />
+      <file href="html5/data/js/6ghAgHwOxyt.js" />
+      <file href="html5/data/js/6jXLmQ5sGre.js" />
+      <file href="html5/data/js/6m550fnk25a.js" />
+      <file href="html5/data/js/6nWsdNoAMhY.js" />
+      <file href="html5/data/js/6oL2da6Nqua.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/6VTpAAKIZiQ.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
