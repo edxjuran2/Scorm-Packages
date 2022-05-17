@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6RYYW5hmLxY_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Improvement Tool: Chi-Square Test in Minitab</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Improvement_Tool:_Chi-Square_Test_in_Minitab_ORG">
+    <organization identifier="Improvement_Tool:_Chi-Square_Test_in_Minitab_ORG">
+      <title>Improvement Tool: Chi-Square Test in Minitab</title>
+      <item identifier="Improvement_Tool_Chi-Square_Test_in_Minitab_SCO" isvisible="true" identifierref="__6RYYW5hmLxY_course_id_RES">
+        <title>Improvement Tool_Chi-Square Test in Minitab</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6RYYW5hmLxY_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_80_P_0_0_1817_1365_DX1620_DY1620_CX1131_CY849.png" />
+      <file href="story_content/6UTV70IkZyU_44100_64_1.mp3" />
+      <file href="story_content/5bnxBVkLUez_44100_64_1.mp3" />
+      <file href="mobile/6WlAFTBA8y2_80_P_0_500_2048_535_DX1440_DY1440_CX803_CY210.png" />
+      <file href="story_content/5VswxM5qfSP_44100_64_1.mp3" />
+      <file href="mobile/5eqt8zf3k9V_80_P_572_0_902_1356_DX1632_DY1632_CX565_CY849.png" />
+      <file href="story_content/6fneDcME7a0_44100_64_1.mp3" />
+      <file href="mobile/6dpacFiB4n2_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/6qbShG6PSLT_44100_64_1.mp3" />
+      <file href="mobile/6C0LRpRlmaK_80_P_568_0_910_1367_DX1618_DY1618_CX565_CY849.png" />
+      <file href="story_content/5jtdPfHVL3Q_44100_64_1.mp3" />
+      <file href="mobile/6jJwZgb1FBY_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/5vPkslGDfpT_44100_64_1.mp3" />
+      <file href="mobile/5e0tiZ4M64z_80_P_589_0_868_1305_DX1696_DY1696_CX565_CY849.png" />
+      <file href="story_content/5ex7lU6QGhl_44100_64_1.mp3" />
+      <file href="mobile/5ck56bJCcQO_80_P_568_0_910_1368_DX1618_DY1618_CX565_CY849.png" />
+      <file href="story_content/5xa8v2H0d2u_44100_64_1.mp3" />
+      <file href="mobile/6B2P5oKqUTP_80_P_598_0_851_1279_DX1730_DY1730_CX565_CY849.png" />
+      <file href="story_content/6QMfmboIv1O_44100_64_1.mp3" />
+      <file href="mobile/6ozDOB1NyX4_80_P_568_0_910_1368_DX1618_DY1618_CX565_CY849.png" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/6HSkhMVnSrS_80_DX577_DY385_CX577_CY385.png" />
+      <file href="story_content/5dPV4XDTYLK_44100_64_1.mp3" />
+      <file href="mobile/6hqJx9jQvJU_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/6NYVjV3wxzB_44100_64_1.mp3" />
+      <file href="mobile/6HAZAyrBFp5_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/5xN33L7fDeW_44100_64_1.mp3" />
+      <file href="mobile/5ffWkC3Wpld_80_P_512_0_1022_1536_DX1440_DY1440_CX565_CY849.png" />
+      <file href="story_content/6gmzhIMxS8s_44100_64_1.mp3" />
+      <file href="mobile/6HHD0GVijC3_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/67l6aEPFsOo_44100_64_1.mp3" />
+      <file href="mobile/60gpXqGvHPm_80_P_516_0_1014_1524_DX1452_DY1452_CX565_CY849.png" />
+      <file href="story_content/6KT8pJ79xZu_44100_64_1.mp3" />
+      <file href="mobile/6aXYykfaUzv_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/5kQSeWTmjup_44100_64_1.mp3" />
+      <file href="mobile/6nOI3N4aF48_80_DX732_DY558_CX732_CY558.png" />
+      <file href="story_content/68Bjvt7Sjqm_44100_64_1.mp3" />
+      <file href="story_content/5XHWot3OLJy_44100_64_1.mp3" />
+      <file href="story_content/5mWJDEAWnAD_44100_64_1.mp3" />
+      <file href="mobile/6fohuWrKObQ_80_DX1024_DY1024_CX777_CY575.jpg" />
+      <file href="story_content/6e8Iqx0SSTb_44100_64_1.mp3" />
+      <file href="story_content/6kjPPYBu1Hw_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="story_content/video_6Mv8FDZmFAy_19_64_720x378.mp4" />
+      <file href="mobile/poster_6ERngNoAjrz_video_6Mv8FDZmFAy_19_64_720x378.jpg" />
+      <file href="story_content/video_61ePDHWKGoo_19_64_720x378.mp4" />
+      <file href="mobile/poster_5syj3fy02Pj_video_61ePDHWKGoo_19_64_720x378.jpg" />
+      <file href="story_content/video_6SYffqqatGP_19_64_720x378.mp4" />
+      <file href="mobile/poster_6OeCk0E5VDF_video_6SYffqqatGP_19_64_720x378.jpg" />
+      <file href="story_content/video_5z8PEm4keqC_19_64_720x378.mp4" />
+      <file href="mobile/poster_64Vl2tYUhD0_video_5z8PEm4keqC_19_64_720x378.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/5ZeYpq7VYey.png" />
+      <file href="story_content/6qRcabPsP4v.png" />
+      <file href="story_content/5bclscgUxAQ.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/Hypothesis Testing Roadmap.pdf" />
+      <file href="story_content/external_files/ANALYZE-CHI_SQUARE-- MOLDING.MTW" />
+      <file href="story_content/external_files/SA60 Tool_Chi Square Test.pdf" />
+      <file href="mobile/Shape5YiltpHPC1D.png" />
+      <file href="mobile/Shape65wAoJp4LFk.png" />
+      <file href="mobile/txt__default_6E9ZJc5tH45.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dlvb1KJUQd.js" />
+      <file href="html5/data/js/5h8XTgYwxVs.js" />
+      <file href="html5/data/js/5i7POBVXm4N.js" />
+      <file href="html5/data/js/5jljO8SW66V.js" />
+      <file href="html5/data/js/5m8hZJeYFlM.js" />
+      <file href="html5/data/js/5mAcdIAGoyd.js" />
+      <file href="html5/data/js/5rPkbblgUHp.js" />
+      <file href="html5/data/js/5s1NtTVZXLb.js" />
+      <file href="html5/data/js/5s7HLFszCav.js" />
+      <file href="html5/data/js/5tyeoPDJs36.js" />
+      <file href="html5/data/js/5uWY7zbrVlL.js" />
+      <file href="html5/data/js/5VvomjJrxC3.js" />
+      <file href="html5/data/js/5woRSK5Zxd4.js" />
+      <file href="html5/data/js/5xSrcspUGZO.js" />
+      <file href="html5/data/js/5zdXA8srI0E.js" />
+      <file href="html5/data/js/612z7sx6KtD.js" />
+      <file href="html5/data/js/634lgfeOfYZ.js" />
+      <file href="html5/data/js/6Ads131Ntwa.js" />
+      <file href="html5/data/js/6DyjXZkwyoQ.js" />
+      <file href="html5/data/js/6EtW43ItzNk.js" />
+      <file href="html5/data/js/6hsdfTt1vzL.js" />
+      <file href="html5/data/js/6kdXsDFRMG5.js" />
+      <file href="html5/data/js/6m1dB5x9Frp.js" />
+      <file href="html5/data/js/6mHeAhzTeYa.js" />
+      <file href="html5/data/js/6SfTjgTOzei.js" />
+      <file href="html5/data/js/6VDXEokANCO.js" />
+      <file href="html5/data/js/6WLNPDEISLS.js" />
+      <file href="html5/data/js/6WRR3jJO2vs.js" />
+      <file href="html5/data/js/6XprbUjISOc.js" />
+      <file href="html5/data/js/6Z2IVRRXftf.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
